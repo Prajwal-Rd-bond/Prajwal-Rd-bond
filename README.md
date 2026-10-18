@@ -2,9 +2,9 @@
 
 **Applied AI · Computer Vision · LLM & RAG Engineering**
 
-I am a B.Tech Artificial Intelligence and Machine Learning undergraduate at N.M.A.M. Institute of Technology, expecting to graduate in **September 2027**. I build AI prototypes that connect model experiments with usable applications, with particular interests in healthcare, retrieval systems and anomaly detection.
+An undergraduate student pursuing Artificial Intelligence and Machine Learning undergraduate at N.M.A.M. Institute of Technology, expecting to graduate in **September 2027**. I build AI prototypes that connect model experiments with usable applications, with particular interests in healthcare, retrieval systems and anomaly detection.
 
-**Seeking paid UAE AI/ML internships for January-June 2027.** I hold a valid UAE residence visa and do not need residence visa sponsorship.
+
 
 [LinkedIn](https://www.linkedin.com/in/prajwal-r-devadiga-0b1357301) · [GitHub repositories](https://github.com/Prajwal-Rd-bond?tab=repositories)
 
