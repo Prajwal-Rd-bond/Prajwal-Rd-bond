@@ -2,7 +2,7 @@
 
 **Applied AI · Computer Vision · LLM & RAG Engineering**
 
-An undergraduate student pursuing Artificial Intelligence and Machine Learning undergraduate at N.M.A.M. Institute of Technology, expecting to graduate in **September 2027**. I build AI prototypes that connect model experiments with usable applications, with particular interests in healthcare, retrieval systems and anomaly detection.
+An undergraduate student pursuing Artificial Intelligence and Machine Learning  at N.M.A.M. Institute of Technology, expecting to graduate in **September 2027**. I build AI prototypes that connect model experiments with usable applications, with particular interests in healthcare, retrieval systems and anomaly detection.
 
 
 
