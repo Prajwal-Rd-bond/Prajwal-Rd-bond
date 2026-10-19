@@ -14,7 +14,6 @@ An undergraduate student pursuing Artificial Intelligence and Machine Learning a
 | [Multimodal Medical Imaging Assistant](https://github.com/Prajwal-Rd-bond/multimodal-medical-imaging-assistant) | CXR and dermoscopy classifiers, calibration, OOD detection, Grad-CAM, evaluation history and documented failure cases. Research demo, not a diagnostic device. |
 | [FlyRank ML internship workspace](https://github.com/Prajwal-Rd-bond/flyrank-ml-internship-starter) | Applied search-data ML coursework and experiments. Based on the FlyRank starter template; reference materials and personal work are distinguished in the repository. |
 | [Astral React](https://github.com/Prajwal-Rd-bond/astral-react) | Team-built interactive 3D solar-system exploration using React, React Three Fiber and Three.js. |
-
 | [Portfolio](https://github.com/Prajwal-Rd-bond/portfolio) · [Live site](https://portfolio-project-eta-lyart.vercel.app/) | Responsive Next.js/TypeScript portfolio with Framer Motion, scroll transitions and reduced-motion support. |
 
 ## Experience and current interests
